@@ -12,8 +12,8 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.signature.ObjectKey
 import com.example.harajtask.MainActivity
 import com.example.harajtask.R
-import com.example.harajtask.untis.getDate
-import com.example.harajtask.untis.toHtml
+import com.example.harajtask.utils.getDate
+import com.example.harajtask.utils.toHtml
 import kotlinx.android.synthetic.main.fragment_details.*
 import org.koin.android.viewmodel.ext.android.viewModel
 

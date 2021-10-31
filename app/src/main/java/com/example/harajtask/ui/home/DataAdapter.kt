@@ -12,8 +12,8 @@ import com.bumptech.glide.load.resource.bitmap.RoundedCorners
 import com.bumptech.glide.signature.ObjectKey
 import com.example.harajtask.R
 import com.example.harajtask.model.Item
-import com.example.harajtask.untis.getInterval
-import com.example.harajtask.untis.toHtml
+import com.example.harajtask.utils.getInterval
+import com.example.harajtask.utils.toHtml
 import kotlinx.android.synthetic.main.item_data.view.*
 
 class DataAdapter(var onItemSelect: (dataItem: Item) -> Unit) :

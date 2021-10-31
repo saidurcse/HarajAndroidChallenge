@@ -1,4 +1,4 @@
-package com.example.harajtask.untis
+package com.example.harajtask.utils
 
 import androidx.core.text.HtmlCompat
 import org.joda.time.DateTime
