@@ -38,6 +38,11 @@ captures/
 
 # IntelliJ
 *.iml
+.idea/*
+.idea/compiler.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/sonarlint/issuestore/index.pb
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml

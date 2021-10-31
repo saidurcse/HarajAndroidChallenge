@@ -7,4 +7,14 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="text_size_24">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/color169933</item>
+    </style>
+
+    <style name="text_size_16">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/color6C6C6C</item>
+    </style>
 </resources>
